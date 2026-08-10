@@ -35,6 +35,10 @@ https://chat.whatsapp.com/GVSg8tPQzXy0grfYpRfQps
 
 O **Map-OS** é um projeto de código aberto **mantido e desenvolvido pela empresa [MountBit](https://mountbit.com.br)**, responsável pela sua evolução contínua, correções e apoio à comunidade.
 
+### Contribuindo
+
+Quer ajudar a melhorar o Map-OS? Leia o **[Guia de Contribuição](CONTRIBUTING.md)** para saber como preparar o ambiente de desenvolvimento, o padrão de código adotado e como abrir um Pull Request.
+
 ### [Instalação](Instalacao_xampp_windows.md)
 
 1. Faça o download dos arquivos.
